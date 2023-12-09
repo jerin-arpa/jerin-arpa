@@ -1,7 +1,7 @@
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 
 <h1 align="center">Hi 👋, I'm Ismat Jerin</h1>
-<h3 align="center">Hi there, My name is Ismat Jerin Arpa, and I'm a recent graduate of computer science with a keen interest in front-end web development. I'm eager to start a rewarding career in web development after graduating in 2022 from a prestigious institution.</h3>
+<h3 align="center">Hi there, My name is Ismat Jerin Arpa, and I'm a recent graduate of computer science with a keen interest in web development. I'm eager to start a rewarding career in web development after graduating in 2022 from a prestigious institution.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🔭 I’m currently working on **Intex Research Lab**
@@ -30,16 +30,14 @@
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerin-arpa&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerin-arpa&theme=github_dark&utcOffset=8)
-
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerin-arpa&theme=github_dark" alt="Stats Card" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerin-arpa&theme=github_dark&utcOffset=8" alt="Productive Time Card" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerin-arpa&theme=github_dark" alt="Stats Card" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerin-arpa&theme=github_dark&utcOffset=8" alt="Productive Time Card" width="400" />
 </p>
 
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerin-arpa&theme=github_dark" alt="Stats Card" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerin-arpa&theme=github_dark" alt="Productive Time Card" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerin-arpa&theme=github_dark" alt="Stats Card" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerin-arpa&theme=github_dark" alt="Productive Time Card" width="400" />
 </p>
