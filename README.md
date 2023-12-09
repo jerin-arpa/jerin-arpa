@@ -45,9 +45,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerin-arpa&theme=github_dark" alt="Stats Card" width="350" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerin-arpa&theme=github_dark&utcOffset=8" alt="Productive Time Card" width="350" />
 </p>
-
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerin-arpa&theme=github_dark" alt="Stats Card" width="350" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerin-arpa&theme=github_dark" alt="Productive Time Card" width="350" />
-</p>
