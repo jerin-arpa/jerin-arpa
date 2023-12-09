@@ -24,8 +24,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,javascript,firebase,bootstrap,mongodb,figma,git,expressjs,nodejs,github,materialui,vscode,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,javascript,firebase,bootstrap,mongodb,figma,git,expressjs,nodejs)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=github,materialui,vscode,vite)](https://skillicons.dev)
 
 <h3 align="left">Streak Stats</h3>
 
