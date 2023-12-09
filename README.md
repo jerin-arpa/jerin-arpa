@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Next Js**
 
+-  👀 I’m interested in **Web Developing**
+
 - 💬 Ask me about **React JS**
 
 - 📫 How to reach me **ismatjerinarpa@gmail.com**
