@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Developing My Skill**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Material UI**
 
 - 👀 I’m interested in **Web Developing**
 
