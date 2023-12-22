@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ismatjerinarpa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wEZw18vp6OD9GW0aoSN2HmysGUwY4mOF/view?usp=sharing](https://drive.google.com/file/d/1wEZw18vp6OD9GW0aoSN2HmysGUwY4mOF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18T9qvUrbI6hhPEzbZ1g3FL-PIPeBkdEf/view?usp=sharing](https://drive.google.com/file/d/18T9qvUrbI6hhPEzbZ1g3FL-PIPeBkdEf/view?usp=sharing)
 
 
 
