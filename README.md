@@ -20,13 +20,13 @@
   
 - 🌐 My Portfolio [https://my-portfolio-38.netlify.app](https://my-portfolio-38.netlify.app)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18T9qvUrbI6hhPEzbZ1g3FL-PIPeBkdEf/view?usp=sharing](https://drive.google.com/file/d/18T9qvUrbI6hhPEzbZ1g3FL-PIPeBkdEf/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DYBsJXisiIAzDPXA64AyqUvmiUYIx678/view?usp=sharing](https://drive.google.com/file/d/1DYBsJXisiIAzDPXA64AyqUvmiUYIx678/view?usp=sharing)
 
 
 
 <h2 align="left">🔗 Connect with me</h2>
 <p align="left">
-<a href="https://linkedin.com/in/ismat-jerin-arpa-a773a6243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismat-jerin-arpa-a773a6243" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ismatjerinarpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismat-jerin-arpa-a773a6243" height="30" width="40" /></a>
 <a href="https://fb.com/ismatjerinarpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ismatjerinarpa" height="30" width="40" /></a>
 </p>
 
