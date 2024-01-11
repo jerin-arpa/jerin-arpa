@@ -34,7 +34,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,javascript,firebase,bootstrap,mongodb,figma,git,expressjs,nodejs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=github,materialui,vscode,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,materialui,vscode,vite,nextjs)](https://skillicons.dev)
 
 <h2 align="left">📉 Streak Stats</h2>
 
