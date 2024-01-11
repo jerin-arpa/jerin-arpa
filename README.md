@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Developing My Skill**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Next JS and Material UI**
 
 - 👀 I’m interested in **Web Developing**
 
-- 💬 Ask me about **React JS**
+- 💬 Ask me about **React JS & Next JS**
 
 - 📫 How to reach me **ismatjerinarpa@gmail.com**
   
