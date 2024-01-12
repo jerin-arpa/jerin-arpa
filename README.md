@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw4aWFlMXBwMHZ6eHIxaWxhb2Mzc3h6bzg1eWV1Y21paXRneHR4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nM1fica6eQdDQOu143/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw4aWFlMXBwMHZ6eHIxaWxhb2Mzc3h6bzg1eWV1Y21paXRneHR4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nM1fica6eQdDQOu143/giphy.gif" alt="MasterHead" height="100%" width="100%">
 
 <h1 align="center">Hi there 👋, I'm Ismat Jerin</h1>
 <h3 align="center">I am a junior web developer passionate about creating visually stunning and user-friendly websites. I specialize in front-end development, where I excel at making designs come to life and ensuring a seamless user experience. My comfort zone lies in crafting responsive layouts and ensuring that websites not only look awesome but also feel intuitive and engaging. 🚀</h3>
