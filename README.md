@@ -20,7 +20,7 @@
   
 - 🌐 My Portfolio [https://my-portfolio-38.netlify.app](https://my-portfolio-38.netlify.app)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DYBsJXisiIAzDPXA64AyqUvmiUYIx678/view?usp=sharing](https://drive.google.com/file/d/1DYBsJXisiIAzDPXA64AyqUvmiUYIx678/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kLfyOZX622IeARNEyu7-T4LKiTuE3SdI/view?usp=sharing](https://drive.google.com/file/d/1kLfyOZX622IeARNEyu7-T4LKiTuE3SdI/view?usp=sharing)
 
 
 
