@@ -18,9 +18,9 @@
 
 - 📫 How to reach me **ismatjerinarpa@gmail.com**
   
-- 🌐 My Portfolio [https://my-portfolio-38.netlify.app](https://my-portfolio-38.netlify.app)
+- 🌐 My Portfolio [https://ismatjerin.me](https://ismatjerin.me)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kLfyOZX622IeARNEyu7-T4LKiTuE3SdI/view?usp=sharing](https://drive.google.com/file/d/1kLfyOZX622IeARNEyu7-T4LKiTuE3SdI/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14XS7pxRlMm8ynp1TjXZPDbXe-UxX2u5c/view?usp=sharing](https://drive.google.com/file/d/14XS7pxRlMm8ynp1TjXZPDbXe-UxX2u5c/view?usp=sharing)
 
 
 
