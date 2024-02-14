@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Redux & Typescript**
 
-- 👀 I’m interested in **Web Developing**
+- 👀 I’m interested in **Web Design & Development**
 
 - 💬 Ask me about **React JS & Next JS**
 
